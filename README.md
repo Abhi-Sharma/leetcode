@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abhi-Sharma/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abhi-Sharma/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Abhi-Sharma/leetcode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -35,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Abhi-Sharma/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Abhi-Sharma/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Abhi-Sharma/leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Abhi-Sharma/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abhi-Sharma/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abhi-Sharma/leetcode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Abhi-Sharma/leetcode/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/Abhi-Sharma/leetcode/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/Abhi-Sharma/leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1073-number-of-enclaves) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhi-Sharma/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhi-Sharma/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Greedy
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Abhi-Sharma/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Abhi-Sharma/leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1073-number-of-enclaves) |
 ## Linked List
 |  |
 | ------- |
