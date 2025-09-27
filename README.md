@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Abhi-Sharma/leetcode/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/Abhi-Sharma/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1073-number-of-enclaves) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Abhi-Sharma/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhi-Sharma/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhi-Sharma/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
