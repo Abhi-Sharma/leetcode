@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhi-Sharma/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0268-missing-number) |
 | [3859-maximum-product-of-two-digits](https://github.com/Abhi-Sharma/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhi-Sharma/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhi-Sharma/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Abhi-Sharma/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abhi-Sharma/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhi-Sharma/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abhi-Sharma/leetcode/tree/master/0056-merge-intervals) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhi-Sharma/leetcode/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/Abhi-Sharma/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abhi-Sharma/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0542-01-matrix) |
