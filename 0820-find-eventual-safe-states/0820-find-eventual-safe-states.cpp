@@ -1,37 +1,33 @@
 class Solution {
-    private:
-    bool dfs(int node, vector<int>& vis, vector<vector<int>>& graph, vector<int>& check){
-        vis[node] = 1;
-        check[node] = 0;
-
-        for(auto it : graph[node]){
-            if(vis[it] == 0){
-                if(dfs(it,vis,graph,check) == true) return true;
-            }
-            else if(vis[it] == 1) return true;
-        }
-
-        vis[node] = 2;
-        check[node] = 1;
-        return false;
-    }
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int V = graph.size();
-        vector<int> vis(V,0);
-        vector<int> check(V,0);
+        vector<int> adj[V];
+        vector<int> indegree(V,0);
+        for(int i = 0; i < V; i++){
+            for(auto it : graph[i]){
+                adj[it].push_back(i);
+                indegree[i]++;
+            }
+        }
+
+        queue<int> q;
+        for(int i = 0; i < V; i++){
+            if(indegree[i] == 0) q.push(i);
+        }
+
         vector<int> safeNodes;
-
-        for(int i = 0; i < V; i++){
-            if(vis[i] == 0)
-            dfs(i,vis,graph,check);
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            safeNodes.push_back(node);
+            for(auto it : adj[node]){
+                indegree[it]--;
+                if(indegree[it] == 0) q.push(it);
+            }
         }
 
-        for(int i = 0; i < V; i++){
-            if(check[i] == 1) safeNodes.push_back(i);
-        }
-
+        sort(safeNodes.begin(),safeNodes.end());
         return safeNodes;
-        
     }
 };
