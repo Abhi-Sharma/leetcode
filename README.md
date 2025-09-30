@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Abhi-Sharma/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abhi-Sharma/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Abhi-Sharma/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abhi-Sharma/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Abhi-Sharma/leetcode/tree/master/0057-insert-interval) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi-Sharma/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi-Sharma/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Abhi-Sharma/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abhi-Sharma/leetcode/tree/master/0200-number-of-islands) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Abhi-Sharma/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Abhi-Sharma/leetcode/tree/master/0820-find-eventual-safe-states) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
