@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Abhi-Sharma/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Abhi-Sharma/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abhi-Sharma/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Abhi-Sharma/leetcode/tree/master/0207-course-schedule) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Abhi-Sharma/leetcode/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/Abhi-Sharma/leetcode/tree/master/0165-compare-version-numbers) |
 | [0678-valid-parenthesis-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhi-Sharma/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhi-Sharma/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi-Sharma/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Abhi-Sharma/leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Abhi-Sharma/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Abhi-Sharma/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0268-missing-number) |
