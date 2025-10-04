@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Abhi-Sharma/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Abhi-Sharma/leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi-Sharma/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Abhi-Sharma/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abhi-Sharma/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abhi-Sharma/leetcode/tree/master/0118-pascals-triangle) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-Sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1753-path-with-minimum-effort](https://github.com/Abhi-Sharma/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abhi-Sharma/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi-Sharma/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Abhi-Sharma/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abhi-Sharma/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0542-01-matrix) |
