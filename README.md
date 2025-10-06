@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Abhi-Sharma/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Abhi-Sharma/leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Abhi-Sharma/leetcode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Abhi-Sharma/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Abhi-Sharma/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhi-Sharma/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Abhi-Sharma/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Abhi-Sharma/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Abhi-Sharma/leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Abhi-Sharma/leetcode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Abhi-Sharma/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Abhi-Sharma/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhi-Sharma/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Abhi-Sharma/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Abhi-Sharma/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abhi-Sharma/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Abhi-Sharma/leetcode/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/Abhi-Sharma/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Abhi-Sharma/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Abhi-Sharma/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Abhi-Sharma/leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Abhi-Sharma/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0890-lemonade-change](https://github.com/Abhi-Sharma/leetcode/tree/master/0890-lemonade-change) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhi-Sharma/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1036-rotting-oranges](https://github.com/Abhi-Sharma/leetcode/tree/master/1036-rotting-oranges) |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-Sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0794-swim-in-rising-water](https://github.com/Abhi-Sharma/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/Abhi-Sharma/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
@@ -232,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abhi-Sharma/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Abhi-Sharma/leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Abhi-Sharma/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Abhi-Sharma/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -282,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Abhi-Sharma/leetcode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Abhi-Sharma/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhi-Sharma/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Abhi-Sharma/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
