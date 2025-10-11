@@ -3,12 +3,12 @@ public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
         int n = matrix.size();
         int m = matrix[0].size();
-        int row = 0;
-        int col = m - 1;
-        while(row < n && col >= 0){
-            if(matrix[row][col] == target) return true;
-            else if(matrix[row][col] > target) col--;
-            else row++;
+        int rowIndex = 0;
+        int colIndex = m-1;
+        while(rowIndex < n && colIndex >= 0){
+            if(target == matrix[rowIndex][colIndex]) return true;
+            if(target < matrix[rowIndex][colIndex]) colIndex--;
+            else rowIndex++;
         }
         return false;
     }
