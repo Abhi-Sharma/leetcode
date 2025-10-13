@@ -1,21 +1,21 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        sort(intervals.begin(), intervals.end());
-        vector<vector<int>> res;
-        int currentTime = intervals[0][0];
-        int lasttime = intervals[0][1];
-        for(int i = 1 ; i < intervals.size(); i++){
-            if(intervals[i][0] <= lasttime){
-                lasttime = max(lasttime, intervals[i][1]);
+        vector<vector<int>> ans;
+        sort(intervals.begin(),intervals.end());
+        int currentStart = intervals[0][0];
+        int lastTime = intervals[0][1];
+        for(int i = 1; i < intervals.size(); i++){
+            if(intervals[i][0] <= lastTime){
+                lastTime = max(lastTime,intervals[i][1]);
             }
             else{
-                res.push_back({currentTime, lasttime});
-                currentTime = intervals[i][0];
-                lasttime = intervals[i][1];
+                ans.push_back({currentStart,lastTime});
+                currentStart = intervals[i][0];
+                lastTime = intervals[i][1];
             }
         }
-         res.push_back({currentTime,lasttime});
-         return res;
+        ans.push_back({currentStart,lastTime});
+        return ans;
     }
 };
