@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Abhi-Sharma/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Abhi-Sharma/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Abhi-Sharma/leetcode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Abhi-Sharma/leetcode/tree/master/1448-maximum-69-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhi-Sharma/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3859-maximum-product-of-two-digits](https://github.com/Abhi-Sharma/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhi-Sharma/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1013-fibonacci-number](https://github.com/Abhi-Sharma/leetcode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Abhi-Sharma/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abhi-Sharma/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## String
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Abhi-Sharma/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Abhi-Sharma/leetcode/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -460,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Abhi-Sharma/leetcode/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Abhi-Sharma/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
