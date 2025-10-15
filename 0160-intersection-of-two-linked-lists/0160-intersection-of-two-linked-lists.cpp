@@ -12,6 +12,7 @@ public:
         ListNode* t1 = headA;
         ListNode* t2 = headB;
         if(headA == NULL || headB == NULL) return NULL;
+
         while(t1 != t2){
             t1 = t1->next;
             t2 = t2->next;
