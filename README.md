@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhi-Sharma/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhi-Sharma/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Greedy
 |  |
