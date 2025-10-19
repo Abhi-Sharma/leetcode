@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Abhi-Sharma/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Abhi-Sharma/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhi-Sharma/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhi-Sharma/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhi-Sharma/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhi-Sharma/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Combinatorics
