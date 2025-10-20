@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi-Sharma/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Abhi-Sharma/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi-Sharma/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-Sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Abhi-Sharma/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abhi-Sharma/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Abhi-Sharma/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-Sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Abhi-Sharma/leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhi-Sharma/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Abhi-Sharma/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi-Sharma/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/Abhi-Sharma/leetcode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Abhi-Sharma/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Abhi-Sharma/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -541,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhi-Sharma/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Abhi-Sharma/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
