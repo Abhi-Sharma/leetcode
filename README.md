@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Abhi-Sharma/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhi-Sharma/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhi-Sharma/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhi-Sharma/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Abhi-Sharma/leetcode/tree/master/0721-accounts-merge) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhi-Sharma/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abhi-Sharma/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0054-spiral-matrix) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
