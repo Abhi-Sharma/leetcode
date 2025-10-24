@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Abhi-Sharma/leetcode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Abhi-Sharma/leetcode/tree/master/1448-maximum-69-number) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhi-Sharma/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abhi-Sharma/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhi-Sharma/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhi-Sharma/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhi-Sharma/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi-Sharma/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhi-Sharma/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhi-Sharma/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Abhi-Sharma/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0090-subsets-ii) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -619,4 +623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhi-Sharma/leetcode/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
