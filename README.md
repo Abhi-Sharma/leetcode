@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/Abhi-Sharma/leetcode/tree/master/0721-accounts-merge) |
+| [0812-rotate-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0812-rotate-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhi-Sharma/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi-Sharma/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abhi-Sharma/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -646,4 +647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
