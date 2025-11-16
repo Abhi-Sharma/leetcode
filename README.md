@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Abhi-Sharma/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Abhi-Sharma/leetcode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Abhi-Sharma/leetcode/tree/master/1448-maximum-69-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Abhi-Sharma/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Abhi-Sharma/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhi-Sharma/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhi-Sharma/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi-Sharma/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abhi-Sharma/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Abhi-Sharma/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Abhi-Sharma/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi-Sharma/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhi-Sharma/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
