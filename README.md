@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Abhi-Sharma/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhi-Sharma/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhi-Sharma/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Abhi-Sharma/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhi-Sharma/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2591-frog-jump-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/2591-frog-jump-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhi-Sharma/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhi-Sharma/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhi-Sharma/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
