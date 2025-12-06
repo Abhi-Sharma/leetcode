@@ -710,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Abhi-Sharma/leetcode/tree/master/0183-customers-who-never-order) |
+| [0619-biggest-single-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0619-biggest-single-number) |
 ## Concurrency
 |  |
 | ------- |
