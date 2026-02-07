@@ -12,13 +12,13 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
         while(fast != NULL && fast->next != NULL){
-            fast = fast->next->next;
             slow = slow->next;
-            if(slow == fast){
+            fast = fast->next->next;
+            if(fast == slow){
                 slow = head;
                 while(fast != slow){
-                    fast = fast->next;
                     slow = slow->next;
+                    fast = fast->next;
                 }
                 return slow;
             }
