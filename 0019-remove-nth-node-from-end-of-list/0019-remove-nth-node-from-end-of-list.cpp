@@ -19,11 +19,11 @@ public:
         }
         if(fast == NULL) return head->next;
         ListNode* slow = head;
-        while(fast != NULL && fast->next != NULL){
-            slow = slow->next;
+        while(fast->next != NULL){
             fast = fast->next;
+            slow = slow->next;
         }
         slow->next = slow->next->next;
-        return head;  
+        return head;
     }
 };
