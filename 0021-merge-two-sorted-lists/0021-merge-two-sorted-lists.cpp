@@ -15,17 +15,30 @@ public:
         ListNode* curr = dummyNode;
         while(list1 != NULL && list2 != NULL){
             if(list1->val <= list2->val){
-                curr->next = list1;
+                ListNode* newNode = new ListNode(list1->val);
+                curr->next = newNode;
+                curr = newNode;
                 list1 = list1->next;
             }
             else{
-                curr->next = list2;
+                ListNode* newNode = new ListNode(list2->val);
+                curr->next = newNode;
+                curr = newNode;
                 list2 = list2->next;
             }
-            curr = curr->next;
         }
-        if(list1 != NULL) curr->next = list1;
-        if(list2 != NULL) curr->next = list2;
+        while(list1){
+            ListNode* newNode = new ListNode(list1->val);
+            curr->next = newNode;
+            curr = newNode;
+            list1 = list1->next;
+        }
+        while(list2){
+            ListNode* newNode = new ListNode(list2->val);
+            curr->next = newNode;
+            curr = newNode;
+            list2 = list2->next;
+        }
 
         return dummyNode->next;
     }
