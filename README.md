@@ -721,4 +721,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1114-print-in-order](https://github.com/Abhi-Sharma/leetcode/tree/master/1114-print-in-order) |
 | [1195-fizz-buzz-multithreaded](https://github.com/Abhi-Sharma/leetcode/tree/master/1195-fizz-buzz-multithreaded) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Abhi-Sharma/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
