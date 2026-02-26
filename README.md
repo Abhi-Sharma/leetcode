@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abhi-Sharma/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abhi-Sharma/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Abhi-Sharma/leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Abhi-Sharma/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abhi-Sharma/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhi-Sharma/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Abhi-Sharma/leetcode/tree/master/0231-power-of-two) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhi-Sharma/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Abhi-Sharma/leetcode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/Abhi-Sharma/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Abhi-Sharma/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Abhi-Sharma/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abhi-Sharma/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Abhi-Sharma/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0136-single-number) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Abhi-Sharma/leetcode/tree/master/0067-add-binary) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Abhi-Sharma/leetcode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
