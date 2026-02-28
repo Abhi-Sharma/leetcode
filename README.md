@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Abhi-Sharma/leetcode/tree/master/0342-power-of-four) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Abhi-Sharma/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Abhi-Sharma/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Matrix
 |  |
 | ------- |
