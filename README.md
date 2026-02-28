@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Abhi-Sharma/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/Abhi-Sharma/leetcode/tree/master/1448-maximum-69-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Abhi-Sharma/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Abhi-Sharma/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Abhi-Sharma/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhi-Sharma/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Abhi-Sharma/leetcode/tree/master/0342-power-of-four) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Abhi-Sharma/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Abhi-Sharma/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Abhi-Sharma/leetcode/tree/master/0067-add-binary) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Abhi-Sharma/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Abhi-Sharma/leetcode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Abhi-Sharma/leetcode/tree/master/2169-simple-bank-system) |
