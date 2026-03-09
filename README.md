@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Abhi-Sharma/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abhi-Sharma/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Abhi-Sharma/leetcode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Abhi-Sharma/leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhi-Sharma/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0542-01-matrix) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Abhi-Sharma/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Abhi-Sharma/leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhi-Sharma/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Abhi-Sharma/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Abhi-Sharma/leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhi-Sharma/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Abhi-Sharma/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Abhi-Sharma/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Abhi-Sharma/leetcode/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/Abhi-Sharma/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bucket Sort
