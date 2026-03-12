@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Abhi-Sharma/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/Abhi-Sharma/leetcode/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Abhi-Sharma/leetcode/tree/master/0890-lemonade-change) |
+| [0896-monotonic-array](https://github.com/Abhi-Sharma/leetcode/tree/master/0896-monotonic-array) |
 | [0907-koko-eating-bananas](https://github.com/Abhi-Sharma/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhi-Sharma/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhi-Sharma/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
