@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Abhi-Sharma/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-Sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Abhi-Sharma/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Abhi-Sharma/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Abhi-Sharma/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Abhi-Sharma/leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Abhi-Sharma/leetcode/tree/master/0343-integer-break) |
+| [0392-is-subsequence](https://github.com/Abhi-Sharma/leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhi-Sharma/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Abhi-Sharma/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Abhi-Sharma/leetcode/tree/master/0494-target-sum) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Abhi-Sharma/leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Abhi-Sharma/leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhi-Sharma/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhi-Sharma/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhi-Sharma/leetcode/tree/master/0516-longest-palindromic-subsequence) |
