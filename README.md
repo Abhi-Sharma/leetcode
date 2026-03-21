@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Abhi-Sharma/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Abhi-Sharma/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhi-Sharma/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Abhi-Sharma/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abhi-Sharma/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhi-Sharma/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Abhi-Sharma/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Abhi-Sharma/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Linked List
 |  |
 | ------- |
