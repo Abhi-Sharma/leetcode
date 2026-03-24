@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhi-Sharma/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Abhi-Sharma/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Abhi-Sharma/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Abhi-Sharma/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Abhi-Sharma/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Abhi-Sharma/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1073-number-of-enclaves) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi-Sharma/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Abhi-Sharma/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhi-Sharma/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Abhi-Sharma/leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abhi-Sharma/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1073-number-of-enclaves) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Abhi-Sharma/leetcode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Abhi-Sharma/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Abhi-Sharma/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Abhi-Sharma/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -879,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Abhi-Sharma/leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Abhi-Sharma/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
