@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Abhi-Sharma/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abhi-Sharma/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhi-Sharma/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhi-Sharma/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhi-Sharma/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/2591-frog-jump-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2906-construct-product-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abhi-Sharma/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Abhi-Sharma/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhi-Sharma/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abhi-Sharma/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Abhi-Sharma/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhi-Sharma/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abhi-Sharma/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Abhi-Sharma/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abhi-Sharma/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhi-Sharma/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Abhi-Sharma/leetcode/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhi-Sharma/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Abhi-Sharma/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abhi-Sharma/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
 |  |
