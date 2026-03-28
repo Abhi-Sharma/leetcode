@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhi-Sharma/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/Abhi-Sharma/leetcode/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhi-Sharma/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2573-find-the-string-with-lcp](https://github.com/Abhi-Sharma/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2591-frog-jump-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/2591-frog-jump-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2906-construct-product-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/2906-construct-product-matrix) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Abhi-Sharma/leetcode/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Abhi-Sharma/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhi-Sharma/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Abhi-Sharma/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2591-frog-jump-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/2591-frog-jump-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Abhi-Sharma/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Abhi-Sharma/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abhi-Sharma/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2573-find-the-string-with-lcp](https://github.com/Abhi-Sharma/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## String
 |  |
 | ------- |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Abhi-Sharma/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhi-Sharma/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2573-find-the-string-with-lcp](https://github.com/Abhi-Sharma/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Abhi-Sharma/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Abhi-Sharma/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhi-Sharma/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/Abhi-Sharma/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abhi-Sharma/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Abhi-Sharma/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -895,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abhi-Sharma/leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Abhi-Sharma/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1020-number-of-enclaves) |
+| [2573-find-the-string-with-lcp](https://github.com/Abhi-Sharma/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Graph Theory
 |  |
 | ------- |
