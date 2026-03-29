@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhi-Sharma/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Abhi-Sharma/leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Abhi-Sharma/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Abhi-Sharma/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
