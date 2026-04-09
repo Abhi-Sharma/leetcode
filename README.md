@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Abhi-Sharma/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Abhi-Sharma/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Abhi-Sharma/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Abhi-Sharma/leetcode/tree/master/0493-reverse-pairs) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Topological Sort
 |  |
 | ------- |
