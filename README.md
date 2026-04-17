@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Abhi-Sharma/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhi-Sharma/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhi-Sharma/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1603-design-parking-system](https://github.com/Abhi-Sharma/leetcode/tree/master/1603-design-parking-system) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhi-Sharma/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhi-Sharma/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Abhi-Sharma/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Abhi-Sharma/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1603-design-parking-system](https://github.com/Abhi-Sharma/leetcode/tree/master/1603-design-parking-system) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Abhi-Sharma/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Abhi-Sharma/leetcode/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/2069-walking-robot-simulation-ii) |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Abhi-Sharma/leetcode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Abhi-Sharma/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Abhi-Sharma/leetcode/tree/master/0937-online-stock-span) |
+| [1603-design-parking-system](https://github.com/Abhi-Sharma/leetcode/tree/master/1603-design-parking-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/Abhi-Sharma/leetcode/tree/master/2169-simple-bank-system) |
 ## Binary Search Tree
