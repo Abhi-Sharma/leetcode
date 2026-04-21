@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Abhi-Sharma/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Abhi-Sharma/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/Abhi-Sharma/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhi-Sharma/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Abhi-Sharma/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Abhi-Sharma/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Abhi-Sharma/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhi-Sharma/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abhi-Sharma/leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Abhi-Sharma/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1020-number-of-enclaves) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Abhi-Sharma/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Graph Theory
 |  |
