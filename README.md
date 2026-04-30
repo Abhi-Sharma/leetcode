@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Abhi-Sharma/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhi-Sharma/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Abhi-Sharma/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Abhi-Sharma/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Abhi-Sharma/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhi-Sharma/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Abhi-Sharma/leetcode/tree/master/0088-merge-sorted-array) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Abhi-Sharma/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Abhi-Sharma/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Abhi-Sharma/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Abhi-Sharma/leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Abhi-Sharma/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Abhi-Sharma/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi-Sharma/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Abhi-Sharma/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Abhi-Sharma/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abhi-Sharma/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -940,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Abhi-Sharma/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Abhi-Sharma/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Abhi-Sharma/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Abhi-Sharma/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Abhi-Sharma/leetcode/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/Abhi-Sharma/leetcode/tree/master/1980-find-unique-binary-string) |
