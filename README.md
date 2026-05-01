@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Abhi-Sharma/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Abhi-Sharma/leetcode/tree/master/0343-integer-break) |
+| [0396-rotate-function](https://github.com/Abhi-Sharma/leetcode/tree/master/0396-rotate-function) |
 | [1013-fibonacci-number](https://github.com/Abhi-Sharma/leetcode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Abhi-Sharma/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Abhi-Sharma/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Abhi-Sharma/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi-Sharma/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-Sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/Abhi-Sharma/leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhi-Sharma/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Abhi-Sharma/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Abhi-Sharma/leetcode/tree/master/0455-assign-cookies) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Abhi-Sharma/leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Abhi-Sharma/leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Abhi-Sharma/leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Abhi-Sharma/leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhi-Sharma/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Abhi-Sharma/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Abhi-Sharma/leetcode/tree/master/0494-target-sum) |
