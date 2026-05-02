@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Abhi-Sharma/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Abhi-Sharma/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/Abhi-Sharma/leetcode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Abhi-Sharma/leetcode/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/Abhi-Sharma/leetcode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Abhi-Sharma/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Abhi-Sharma/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Abhi-Sharma/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Abhi-Sharma/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0788-rotated-digits](https://github.com/Abhi-Sharma/leetcode/tree/master/0788-rotated-digits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Abhi-Sharma/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/Abhi-Sharma/leetcode/tree/master/1013-fibonacci-number) |
 | [1092-shortest-common-supersequence](https://github.com/Abhi-Sharma/leetcode/tree/master/1092-shortest-common-supersequence) |
