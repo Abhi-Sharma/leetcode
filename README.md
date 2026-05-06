@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Abhi-Sharma/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Abhi-Sharma/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhi-Sharma/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Abhi-Sharma/leetcode/tree/master/1861-rotating-the-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhi-Sharma/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhi-Sharma/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Abhi-Sharma/leetcode/tree/master/1929-concatenation-of-array) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhi-Sharma/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhi-Sharma/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Abhi-Sharma/leetcode/tree/master/1861-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Abhi-Sharma/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Abhi-Sharma/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1861-rotating-the-box](https://github.com/Abhi-Sharma/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhi-Sharma/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Abhi-Sharma/leetcode/tree/master/2573-find-the-string-with-lcp) |
