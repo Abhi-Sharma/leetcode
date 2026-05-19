@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhi-Sharma/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhi-Sharma/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhi-Sharma/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Abhi-Sharma/leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhi-Sharma/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Abhi-Sharma/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2591-frog-jump-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/2591-frog-jump-ii) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhi-Sharma/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Abhi-Sharma/leetcode/tree/master/1861-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/Abhi-Sharma/leetcode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Abhi-Sharma/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Abhi-Sharma/leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhi-Sharma/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/Abhi-Sharma/leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Abhi-Sharma/leetcode/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2784-check-if-array-is-good](https://github.com/Abhi-Sharma/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhi-Sharma/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/Abhi-Sharma/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhi-Sharma/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Abhi-Sharma/leetcode/tree/master/2540-minimum-common-value) |
 | [2591-frog-jump-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/2591-frog-jump-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhi-Sharma/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Abhi-Sharma/leetcode/tree/master/3488-closest-equal-element-queries) |
