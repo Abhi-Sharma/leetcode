@@ -21,21 +21,15 @@ ListNode* reverse(ListNode* node){
     return prev;
 }
     int pairSum(ListNode* head) {
-        int size = 0;
-        ListNode* tail = head;
-        while(tail != NULL){
-            tail = tail->next;
-            size++;
-        }
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-        int n = size/2 - 1;
-        tail = head;
-        while(n){
-            tail = tail->next;
-            n--;
+        while(fast->next != NULL && fast->next->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        ListNode* newhead = reverse(tail->next);
-        tail->next = NULL;
+        ListNode* newhead = reverse(slow->next);
+        slow->next = NULL;
 
         int maxi = INT_MIN;
         while(head != NULL && newhead != NULL){
