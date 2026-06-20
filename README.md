@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/Abhi-Sharma/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Abhi-Sharma/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Abhi-Sharma/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1840-maximum-building-height](https://github.com/Abhi-Sharma/leetcode/tree/master/1840-maximum-building-height) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhi-Sharma/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Abhi-Sharma/leetcode/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Abhi-Sharma/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Abhi-Sharma/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1840-maximum-building-height](https://github.com/Abhi-Sharma/leetcode/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Abhi-Sharma/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhi-Sharma/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Abhi-Sharma/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhi-Sharma/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/Abhi-Sharma/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1840-maximum-building-height](https://github.com/Abhi-Sharma/leetcode/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Abhi-Sharma/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhi-Sharma/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Abhi-Sharma/leetcode/tree/master/1861-rotating-the-box) |
