@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Abhi-Sharma/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abhi-Sharma/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhi-Sharma/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhi-Sharma/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Abhi-Sharma/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/Abhi-Sharma/leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2784-check-if-array-is-good](https://github.com/Abhi-Sharma/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhi-Sharma/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhi-Sharma/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -1148,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Abhi-Sharma/leetcode/tree/master/0204-count-primes) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhi-Sharma/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
