@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Abhi-Sharma/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi-Sharma/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Abhi-Sharma/leetcode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhi-Sharma/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Abhi-Sharma/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhi-Sharma/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Abhi-Sharma/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi-Sharma/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Abhi-Sharma/leetcode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhi-Sharma/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Abhi-Sharma/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhi-Sharma/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Abhi-Sharma/leetcode/tree/master/1861-rotating-the-box) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Abhi-Sharma/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Abhi-Sharma/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi-Sharma/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhi-Sharma/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhi-Sharma/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Abhi-Sharma/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Abhi-Sharma/leetcode/tree/master/2126-destroying-asteroids) |
