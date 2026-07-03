@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Abhi-Sharma/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-network-recovery-pathways](https://github.com/Abhi-Sharma/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Abhi-Sharma/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Abhi-Sharma/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/Abhi-Sharma/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/Abhi-Sharma/leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Abhi-Sharma/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhi-Sharma/leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Abhi-Sharma/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-network-recovery-pathways](https://github.com/Abhi-Sharma/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Abhi-Sharma/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -912,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Abhi-Sharma/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abhi-Sharma/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/Abhi-Sharma/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Simulation
 |  |
 | ------- |
@@ -957,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/Abhi-Sharma/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Shortest Path
 |  |
@@ -966,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Abhi-Sharma/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Abhi-Sharma/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhi-Sharma/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1253,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Abhi-Sharma/leetcode/tree/master/0785-is-graph-bipartite) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhi-Sharma/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Prefix Sum
 |  |
 | ------- |
