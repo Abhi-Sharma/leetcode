@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Abhi-Sharma/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Abhi-Sharma/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Abhi-Sharma/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/Abhi-Sharma/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Abhi-Sharma/leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Abhi-Sharma/leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Abhi-Sharma/leetcode/tree/master/1345-jump-game-iv) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Abhi-Sharma/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Abhi-Sharma/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Abhi-Sharma/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/Abhi-Sharma/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Abhi-Sharma/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Abhi-Sharma/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Abhi-Sharma/leetcode/tree/master/1340-jump-game-v) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Abhi-Sharma/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/Abhi-Sharma/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
