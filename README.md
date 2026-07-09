@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhi-Sharma/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Abhi-Sharma/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi-Sharma/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi-Sharma/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Abhi-Sharma/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhi-Sharma/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/Abhi-Sharma/leetcode/tree/master/1020-number-of-enclaves) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0937-online-stock-span](https://github.com/Abhi-Sharma/leetcode/tree/master/0937-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi-Sharma/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi-Sharma/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi-Sharma/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abhi-Sharma/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhi-Sharma/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0937-online-stock-span](https://github.com/Abhi-Sharma/leetcode/tree/master/0937-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi-Sharma/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Quickselect
 |  |
 | ------- |
@@ -1021,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi-Sharma/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhi-Sharma/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1051,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi-Sharma/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhi-Sharma/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Design
@@ -1080,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Abhi-Sharma/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi-Sharma/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Combinatorics
 |  |
 | ------- |
