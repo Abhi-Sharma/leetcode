@@ -1215,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Abhi-Sharma/leetcode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Abhi-Sharma/leetcode/tree/master/1291-sequential-digits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Abhi-Sharma/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhi-Sharma/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
