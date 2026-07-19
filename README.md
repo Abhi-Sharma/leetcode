@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0846-hand-of-straights](https://github.com/Abhi-Sharma/leetcode/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Abhi-Sharma/leetcode/tree/master/0890-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhi-Sharma/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Abhi-Sharma/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Abhi-Sharma/leetcode/tree/master/1448-maximum-69-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Abhi-Sharma/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0812-rotate-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhi-Sharma/leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi-Sharma/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhi-Sharma/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Abhi-Sharma/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Abhi-Sharma/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhi-Sharma/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Abhi-Sharma/leetcode/tree/master/0937-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi-Sharma/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhi-Sharma/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhi-Sharma/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Abhi-Sharma/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi-Sharma/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1028,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhi-Sharma/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0937-online-stock-span](https://github.com/Abhi-Sharma/leetcode/tree/master/0937-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhi-Sharma/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhi-Sharma/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Quickselect
 |  |
 | ------- |
