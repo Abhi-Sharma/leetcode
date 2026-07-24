@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Abhi-Sharma/leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhi-Sharma/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Abhi-Sharma/leetcode/tree/master/0542-01-matrix) |
+| [0706-design-hashmap](https://github.com/Abhi-Sharma/leetcode/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Abhi-Sharma/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/Abhi-Sharma/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Abhi-Sharma/leetcode/tree/master/0733-flood-fill) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Abhi-Sharma/leetcode/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Abhi-Sharma/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi-Sharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0706-design-hashmap](https://github.com/Abhi-Sharma/leetcode/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/Abhi-Sharma/leetcode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Abhi-Sharma/leetcode/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/Abhi-Sharma/leetcode/tree/master/0874-walking-robot-simulation) |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Abhi-Sharma/leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Abhi-Sharma/leetcode/tree/master/0460-lfu-cache) |
+| [0706-design-hashmap](https://github.com/Abhi-Sharma/leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1124,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Abhi-Sharma/leetcode/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Abhi-Sharma/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Abhi-Sharma/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/Abhi-Sharma/leetcode/tree/master/0706-design-hashmap) |
 | [0937-online-stock-span](https://github.com/Abhi-Sharma/leetcode/tree/master/0937-online-stock-span) |
 | [1603-design-parking-system](https://github.com/Abhi-Sharma/leetcode/tree/master/1603-design-parking-system) |
 | [2069-walking-robot-simulation-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/2069-walking-robot-simulation-ii) |
@@ -1385,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Abhi-Sharma/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0706-design-hashmap](https://github.com/Abhi-Sharma/leetcode/tree/master/0706-design-hashmap) |
 ## Geometry
 |  |
 | ------- |
