@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhi-Sharma/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Abhi-Sharma/leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Abhi-Sharma/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi-Sharma/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-Sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Abhi-Sharma/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Abhi-Sharma/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Abhi-Sharma/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Abhi-Sharma/leetcode/tree/master/0322-coin-change) |
@@ -1431,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Abhi-Sharma/leetcode/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi-Sharma/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Iterator
