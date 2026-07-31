@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhi-Sharma/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Abhi-Sharma/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Abhi-Sharma/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Abhi-Sharma/leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhi-Sharma/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abhi-Sharma/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/Abhi-Sharma/leetcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Abhi-Sharma/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/Abhi-Sharma/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Abhi-Sharma/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhi-Sharma/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhi-Sharma/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -981,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhi-Sharma/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi-Sharma/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Abhi-Sharma/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhi-Sharma/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhi-Sharma/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhi-Sharma/leetcode/tree/master/1189-maximum-number-of-balloons) |
