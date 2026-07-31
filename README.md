@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Abhi-Sharma/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abhi-Sharma/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhi-Sharma/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Abhi-Sharma/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Abhi-Sharma/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0268-missing-number) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Abhi-Sharma/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhi-Sharma/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Abhi-Sharma/leetcode/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Abhi-Sharma/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abhi-Sharma/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Abhi-Sharma/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhi-Sharma/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Abhi-Sharma/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Abhi-Sharma/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Abhi-Sharma/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhi-Sharma/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/0219-contains-duplicate-ii) |
