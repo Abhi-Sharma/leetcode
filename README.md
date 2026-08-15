@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhi-Sharma/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Abhi-Sharma/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi-Sharma/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abhi-Sharma/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/Abhi-Sharma/leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhi-Sharma/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhi-Sharma/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhi-Sharma/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/Abhi-Sharma/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi-Sharma/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abhi-Sharma/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/Abhi-Sharma/leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhi-Sharma/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Abhi-Sharma/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Abhi-Sharma/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Abhi-Sharma/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi-Sharma/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abhi-Sharma/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhi-Sharma/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhi-Sharma/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Abhi-Sharma/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -873,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhi-Sharma/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhi-Sharma/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/Abhi-Sharma/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abhi-Sharma/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhi-Sharma/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Abhi-Sharma/leetcode/tree/master/2540-minimum-common-value) |
 | [2591-frog-jump-ii](https://github.com/Abhi-Sharma/leetcode/tree/master/2591-frog-jump-ii) |
@@ -1272,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Abhi-Sharma/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhi-Sharma/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abhi-Sharma/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abhi-Sharma/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/Abhi-Sharma/leetcode/tree/master/1871-jump-game-vii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abhi-Sharma/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Backtracking
@@ -1450,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Abhi-Sharma/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Abhi-Sharma/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Abhi-Sharma/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abhi-Sharma/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/Abhi-Sharma/leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Abhi-Sharma/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Abhi-Sharma/leetcode/tree/master/2615-sum-of-distances) |
